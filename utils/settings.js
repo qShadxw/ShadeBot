@@ -1,6 +1,0 @@
-//
-// Discord Bot Settings
-//
-exports.BOT_TOKEN = "MTAxODk5OTcxNTk4NTEwOTA0Mg.G67xu1.1pK9I0xxnXonQR0jD90n38w-Jusg-0G8tBA-rs";
-exports.CLIENT_ID = "1018999715985109042";
-exports.AUTHOR_ID = "372851983553527808";
