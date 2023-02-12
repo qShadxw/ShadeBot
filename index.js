@@ -3,7 +3,7 @@ const { Client, Events, GatewayIntentBits } = require("discord.js");
 
 // Client
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent ]});
-const replies = ["Listen here you fart sniffing bottom humping grass eating one sock havin ass"];
+const replies = ["Listen here you fart sniffing bottom humping grass eating one sock havin ass", "Fuck you"];
 
 // Function which returns a whole number from min max
 function randomInteger(min, max) {
