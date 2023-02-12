@@ -1,0 +1,14 @@
+{
+  "name": "shadebot",
+  "version": "0.1.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
